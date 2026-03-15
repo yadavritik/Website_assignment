@@ -16,12 +16,16 @@ This is a simple website created using HTML, CSS and Bootstrap.
 - Contact Page
 
 ## Screenshots
-
+<p align ="center">
+<img src="E:\bootstrap\imagess\about.png"
+<img src="E:\bootstrap\imagess\contact.png"
+<img src="E:\bootstrap\imagess\home.png"
+</p>
 ### Home Page
-![Home Page](images/home.png)
+![home page](imagess/home.png)
 
 ### About Page
-![About Page](images/about.png)
+![About Page](imagess/about.png)
 
 ### Contact Page
-![Contact Page](images/contact.png)
+![Contact Page](imagess/contact.png)
